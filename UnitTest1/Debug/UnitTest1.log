@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\User\source\repos\Lab_6.4 rekur\Lab_6.4 rekur\Source.cpp(60): warning C4715: 'FindMax': not all control paths return a value
+C:\Users\User\source\repos\Lab_6.4 rekur\Lab_6.4 rekur\Source.cpp(52): warning C4715: 'FindMin': not all control paths return a value
+     Creating library C:\Users\User\source\repos\Lab_6.4 rekur\Debug\UnitTest1.lib and object C:\Users\User\source\repos\Lab_6.4 rekur\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\Lab_6.4 rekur\Debug\UnitTest1.dll
